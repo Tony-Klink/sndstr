@@ -1,2 +1,2 @@
-# sndstr
-(formerly chkstr) nostr relay
+# sndstr (formerly chkstr)
+WIP nostr relay
